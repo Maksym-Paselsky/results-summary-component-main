@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://github.com/Maksym-Paselsky/results-summary-component-main)
+- Live Site URL: [Live URL](https://maksym-paselsky.github.io/results-summary-component-main/)
 
 ## My process
 
@@ -44,10 +44,6 @@ I create html structure and then I use css-grid for main two sections, stylized 
 - CSS Grid
 
 ### What I learned
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
 
 Didn't know about aspect ratio before 🧐
 
